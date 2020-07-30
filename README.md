@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[[Placeholder link]] (www.youtube.com/URL)
+[Placeholder link](www.youtube.com/URL)
 
 ### Related products
 * Advanced C++ Programming Cookbook  [[Packt]](https://www.packtpub.com/programming/advanced-c-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838559915) [[Amazon]](https://www.amazon.com/dp/1838559914)
